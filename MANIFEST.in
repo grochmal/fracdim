@@ -1,0 +1,4 @@
+include README README.md MANIFEST.in COPYING LICENSE.txt setup.py
+include setup.cfg tox.ini requirements.txt requirements_dev.txt .travis.yml
+recursive-include tests *.py
+

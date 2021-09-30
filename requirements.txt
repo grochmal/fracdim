@@ -1,0 +1,4 @@
+# this only lists the runtime dependencies
+numpy >= 1.0.0
+scipy >= 1.0.0
+

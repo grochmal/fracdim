@@ -1,0 +1,18 @@
+# vim and emacs
+*.swp
+*~
+
+# python world
+/build/
+/dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+
+# tox and pytest
+.pytest_cache/
+.cache/
+.tox/
+
